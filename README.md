@@ -1,4 +1,5 @@
 
+[![](https://visitcount.itsvg.in/api?id=Kaushan-Dutta&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
 Kaushan-Dutta/Kaushan-Dutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

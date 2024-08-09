@@ -6,17 +6,8 @@ Kaushan-Dutta/Kaushan-Dutta is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm KAUSHAN DUTTA</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">Talks about Full Stack and Blockchain Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushan-dutta&label=Profile%20views&color=0e75b6&style=flat" alt="kaushan-dutta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushan-dutta" alt="kaushan-dutta" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack and BlockChain Development**
-
-- 💬 Ask me about **Python,React,MongoDb,Nodejs**
-
-- 📫 How to reach me **kaushandutta5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,9 +33,5 @@ You can click the Preview link to take a look at your changes.
 <b>⚒OTHERS :</b><br/><br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaushan-Dutta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kaushan-Dutta&theme=dark&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushan-Dutta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 --- 
-[![](https://visitcount.itsvg.in/api?id=Kaushan-Dutta&icon=0&color=0)](https://visitcount.itsvg.in)
